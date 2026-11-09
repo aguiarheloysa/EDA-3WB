@@ -1,0 +1,8 @@
+// • bit 0 → pode ler arquivos
+// • bit 1 → pode escrever arquivos
+// • bit 2 → pode executar programas
+// • bit 3 → pode apagar arquivos
+// • bit 4 → pode criar pastas
+// • bit 5 → pode compartilhar arquivos
+// • bit 6 → pode administrar usuários
+// • bit 7 → pode alterar configurações
